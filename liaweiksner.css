@@ -1,0 +1,62 @@
+@charset "UTF-8";
+ul {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 593px;
+    margin-top: -69px;
+    margin-right: 0px;
+    color: #313E7E;
+}
+body img {
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: 70px;
+}
+#wrapper {
+    padding-top: 0px;
+    margin-top: -57px;
+    color: #253B7F;
+    font-size: xx-large;
+    text-indent: -6px;
+    word-spacing: 28px;
+}
+img2 {
+}
+
+.grid-container {
+    display: grid;
+    grid-gap: 40px 60px;
+    grid-template-columns: 500px 500px;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.grid-item{
+	height: 600 px;
+}
+portrait {
+    border-top-left-radius: 0px;
+}
+body p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 400px;
+    margin-top: 300px;
+    margin-right: 150px;
+    text-indent: 30px;
+    line-height: 25px;
+    text-align: justify;
+    font-weight: 500;
+    color: #B0C1FD;
+}
+about {
+    left: 0px;
+}
+.foot {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    font-weight: 500;
+    padding-bottom: 30px;
+    padding-top: 90px;
+}
